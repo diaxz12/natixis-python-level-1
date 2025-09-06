@@ -1,4 +1,4 @@
-# 🐍 Natixis Python Level 1 - Beginner Course
+# 🐍 Natixis Python Level 1
 
 ## 📚 Course Overview
 
