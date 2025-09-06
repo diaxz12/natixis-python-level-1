@@ -1,53 +1,53 @@
-# Natixis Python Level 1 - Beginner Course
+# 🐍 Natixis Python Level 1 - Beginner Course
 
-## Course Overview
+## 📚 Course Overview
 
 This introductory course is designed for beginners to learn how to use Python as a powerful tool for working with data. Students will gain a solid foundation in Python programming while focusing on practical skills for accessing, manipulating, and analyzing data effectively.
 
-## Course Structure
+## 📋 Course Structure
 
-### Class 1: Introduction to Python - The Basics
-- **Installation & Setup**
+### 🚀 Class 1: Introduction to Python - The Basics
+- **⚙️ Installation & Setup**
   - Python installation
   - Setting working directory
   - IDE (Integrated Development Environment) setup
   - Main libraries introduction
 
-- **Python Fundamentals**
+- **🔧 Python Fundamentals**
   - Syntax basics
   - Variable types and data types
   - Basic mathematical functions (min, max, mean, sum, correlation, std, round, etc.)
   - Operators
 
-- **Control Flow**
+- **🔄 Control Flow**
   - If... Else statements
   - While Loop
   - For Loop
   - Breaking out of loops
 
-### Class 2: Data Structures
-- **Core Data Structures**
+### 📊 Class 2: Data Structures
+- **🗂️ Core Data Structures**
   - Lists
   - Sets
   - Arrays
   - Dictionary
 
-- **Introduction to Pandas**
+- **🐼 Introduction to Pandas**
   - Introduction to pandas dataframes
 
-### Class 3: Data Frames
-- **Data Import & Information**
+### 📈 Class 3: Data Frames
+- **📥 Data Import & Information**
   - Read/import data
   - Get information about the dataset
   - Dimension and columns
   - Data access and sorting
 
-- **Data Analysis**
+- **🔍 Data Analysis**
   - Analyzing data
   - Basic statistics (max, min, mean, median, mode, percentiles)
   - Create data frame and fill
 
-- **Data Manipulation**
+- **⚡ Data Manipulation**
   - Change a Data Frame's Row and Column Names
   - Access and Change a Data Frame's Values
   - Filter data frames (select rows, subset, conditions)
@@ -55,17 +55,17 @@ This introductory course is designed for beginners to learn how to use Python as
   - Add Rows and Columns to a Data Frame
   - Remove Data Frame Rows and Columns with NA-Values
 
-- **Data Export & Reporting**
+- **📤 Data Export & Reporting**
   - Export data frame
   - Generate reports automatically
 
-### Class 4: Database
-- **Database Operations**
+### 🗄️ Class 4: Database
+- **🔗 Database Operations**
   - Connection to database
   - Data extraction
   - Queries
 
-## Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this course, students will be able to:
 - Set up a Python development environment
@@ -74,19 +74,19 @@ By the end of this course, students will be able to:
 - Import, manipulate, and analyze data using pandas DataFrames
 - Connect to databases and extract data
 
-## Prerequisites
+## ✅ Prerequisites
 
 - No prior programming experience required
 - Basic computer literacy
 - Interest in data analysis and programming
 
-## Course Materials
+## 📁 Course Materials
 
 - Class materials and exercises are provided in the respective folders
 - Hands-on exercises for each class to reinforce learning
 - Solution files for self-assessment
 
-## Getting Started
+## 🚀 Getting Started
 
 1. Ensure Python is installed on your system
 2. Set up Visual Studio IDE (Integrated Development Environment)
@@ -95,7 +95,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## Intellectual Property Notice
+## ⚠️ Intellectual Property Notice
 
 **Important**: This course material is the intellectual property of the course instructors and should not be distributed, shared, or reproduced without their explicit written consent. All content, exercises, and materials are protected by copyright and are intended solely for enrolled students of this course.
 
