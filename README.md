@@ -95,4 +95,10 @@ By the end of this course, students will be able to:
 
 ---
 
+## Intellectual Property Notice
+
+**Important**: This course material is the intellectual property of the course instructors and should not be distributed, shared, or reproduced without their explicit written consent. All content, exercises, and materials are protected by copyright and are intended solely for enrolled students of this course.
+
+---
+
 *This course provides a comprehensive foundation in Python programming with a focus on practical data analysis skills.*
