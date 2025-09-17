@@ -26,6 +26,7 @@ This introductory course is designed for beginners to learn how to use Python as
   - Breaking out of loops
 
 - **📝 Exercises**
+  - [Class 1 Exercises](exercises/Class1_exercises.py)
   - [Class 1 Exercises Solution](exercises/Class1_exercises_solution.py)
 
 ### 📊 Class 2: Data Structures
@@ -39,6 +40,7 @@ This introductory course is designed for beginners to learn how to use Python as
   - Introduction to pandas dataframes
 
 - **📝 Exercises**
+  - [Class 2 Exercises](exercises/Class2_exercises.py)
   - [Class 2 Exercises Solution](exercises/Class2_exercises_solution.py)
 
 ### 📈 Class 3: Data Frames
@@ -66,6 +68,7 @@ This introductory course is designed for beginners to learn how to use Python as
   - Generate reports automatically
 
 - **📝 Exercises**
+  - [Class 3 Exercises](exercises/Class3_exercises.py) *(Important: Use `dataset.csv` from `exercises/data/` folder)*
   - [Class 3 Exercises Solution](exercises/Class3_exercises_solution.py)
 
 ### 🗄️ Class 4: Database
@@ -75,6 +78,7 @@ This introductory course is designed for beginners to learn how to use Python as
   - Queries
 
 - **📝 Exercises**
+  - [Class 4 Exercises](exercises/Class4_exercises.py) *(Important: Use `database.db` from `exercises/data/` folder)*
   - [Class 4 Exercises Solution](exercises/Class4_exercises_solution.py)
 
 ### 💡 Practical Example: Stock Price Analysis
@@ -85,7 +89,9 @@ This introductory course is designed for beginners to learn how to use Python as
   - Export analysis results to CSV and PNG files
 
 - **📝 Example**
-  - [Fintech Stock Price Analysis](fintech_challenge/fintech_exercise_solution.py)
+  - [Fintech Stock Price Analysis Exercise](fintech_challenge/fintech_exercise.py)
+  - [Fintech Stock Price Analysis Solution](fintech_challenge/fintech_exercise_solution.py)
+  - [Sample Data: AAPL Daily Update](fintech_challenge/AAPL_daily_update.csv)
 
 ## 🎯 Learning Objectives
 
@@ -105,23 +111,48 @@ By the end of this course, students will be able to:
 
 ## 📁 Course Materials
 
-- Class materials and exercises are provided in the respective folders
-- Hands-on exercises for each class to reinforce learning
-- Solution files for self-assessment
-  - [Class 1 Exercises Solution](exercises/Class1_exercises_solution.py)
-  - [Class 2 Exercises Solution](exercises/Class2_exercises_solution.py)
-  - [Class 3 Exercises Solution](exercises/Class3_exercises_solution.py)
-  - [Class 4 Exercises Solution](exercises/Class4_exercises_solution.py)
-- Example scripts for practical applications
-  - [Fintech Stock Price Analysis](fintech_challenge/fintech_exercise_solution.py)
+### 📚 Class Materials
+- [Class 1 PDF](class%20material/class-1.pdf) - Introduction to Python - The Basics
+- [Class 2 PDF](class%20material/class-2.pdf) - Data Structures
+- [Class 3 PDF](class%20material/class-3.pdf) - Data Frames
+- [Class 4 PDF](class%20material/class-4.pdf) - Database
+
+### 📝 Exercises & Solutions
+- **Class 1**: [Exercises](exercises/Class1_exercises.py) | [Solutions](exercises/Class1_exercises_solution.py)
+- **Class 2**: [Exercises](exercises/Class2_exercises.py) | [Solutions](exercises/Class2_exercises_solution.py)
+- **Class 3**: [Exercises](exercises/Class3_exercises.py) | [Solutions](exercises/Class3_exercises_solution.py)
+- **Class 4**: [Exercises](exercises/Class4_exercises.py) | [Solutions](exercises/Class4_exercises_solution.py)
+
+### 📊 Sample Data
+- [Dataset CSV](exercises/data/dataset.csv) - Sample dataset for exercises
+- [Database File](exercises/data/database.db) - SQLite database for database exercises
+- [AAPL Stock Data](fintech_challenge/AAPL_daily_update.csv) - Apple stock data for fintech challenge
+
+### 💡 Practical Example
+- [Fintech Challenge Exercise](fintech_challenge/fintech_exercise.py) - Stock price analysis exercise
+- [Fintech Challenge Solution](fintech_challenge/fintech_exercise_solution.py) - Complete solution with analysis and visualization
 
 ## 🚀 Getting Started
 
-1. Ensure Python is installed on your system
-2. Set up Visual Studio IDE (Integrated Development Environment)
-3. Navigate to the exercises folder to begin with Class 1 exercises
-4. Follow along with the class materials as you progress through each module
-5. Explore the practical example in the `fintech_challenge` folder
+1. **📥 Setup Environment**
+   - Ensure Python is installed on your system
+   - Set up Visual Studio IDE (Integrated Development Environment)
+   - Install required libraries: pandas, matplotlib, sqlite3
+
+2. **📚 Start Learning**
+   - Begin with [Class 1 PDF](class%20material/class-1.pdf) for theoretical foundation
+   - Practice with [Class 1 Exercises](exercises/Class1_exercises.py)
+   - Check your work against [Class 1 Solutions](exercises/Class1_exercises_solution.py)
+
+3. **🔄 Progress Through Classes**
+   - Follow the same pattern for Classes 2-4
+   - Use the provided sample data in `exercises/data/` folder
+   - Practice database operations with the included SQLite database
+
+4. **💡 Apply Your Skills**
+   - Complete the [Fintech Challenge](fintech_challenge/fintech_exercise.py)
+   - Analyze real stock data and create visualizations
+   - Compare your solution with the provided [solution](fintech_challenge/fintech_exercise_solution.py)
 
 ---
 
