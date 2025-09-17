@@ -25,6 +25,9 @@ This introductory course is designed for beginners to learn how to use Python as
   - For Loop
   - Breaking out of loops
 
+- **📝 Exercises**
+  - [Class 1 Exercises Solution](exercises/Class1_exercises_solution.py)
+
 ### 📊 Class 2: Data Structures
 - **🗂️ Core Data Structures**
   - Lists
@@ -34,6 +37,9 @@ This introductory course is designed for beginners to learn how to use Python as
 
 - **🐼 Introduction to Pandas**
   - Introduction to pandas dataframes
+
+- **📝 Exercises**
+  - [Class 2 Exercises Solution](exercises/Class2_exercises_solution.py)
 
 ### 📈 Class 3: Data Frames
 - **📥 Data Import & Information**
@@ -59,11 +65,27 @@ This introductory course is designed for beginners to learn how to use Python as
   - Export data frame
   - Generate reports automatically
 
+- **📝 Exercises**
+  - [Class 3 Exercises Solution](exercises/Class3_exercises_solution.py)
+
 ### 🗄️ Class 4: Database
 - **🔗 Database Operations**
   - Connection to database
   - Data extraction
   - Queries
+
+- **📝 Exercises**
+  - [Class 4 Exercises Solution](exercises/Class4_exercises_solution.py)
+
+### 💡 Practical Example: Stock Price Analysis
+- **📈 Stock Data Analysis**
+  - Analyze daily stock prices of a fintech company
+  - Calculate summary statistics
+  - Visualize price trends
+  - Export analysis results to CSV and PNG files
+
+- **📝 Example**
+  - [Fintech Stock Price Analysis](fintech_challenge/fintech_exercise_solution.py)
 
 ## 🎯 Learning Objectives
 
@@ -73,6 +95,7 @@ By the end of this course, students will be able to:
 - Work with Python's core data structures (lists, sets, arrays, dictionaries)
 - Import, manipulate, and analyze data using pandas DataFrames
 - Connect to databases and extract data
+- Perform practical data analysis and visualization tasks
 
 ## ✅ Prerequisites
 
@@ -85,6 +108,12 @@ By the end of this course, students will be able to:
 - Class materials and exercises are provided in the respective folders
 - Hands-on exercises for each class to reinforce learning
 - Solution files for self-assessment
+  - [Class 1 Exercises Solution](exercises/Class1_exercises_solution.py)
+  - [Class 2 Exercises Solution](exercises/Class2_exercises_solution.py)
+  - [Class 3 Exercises Solution](exercises/Class3_exercises_solution.py)
+  - [Class 4 Exercises Solution](exercises/Class4_exercises_solution.py)
+- Example scripts for practical applications
+  - [Fintech Stock Price Analysis](fintech_challenge/fintech_exercise_solution.py)
 
 ## 🚀 Getting Started
 
@@ -92,6 +121,7 @@ By the end of this course, students will be able to:
 2. Set up Visual Studio IDE (Integrated Development Environment)
 3. Navigate to the exercises folder to begin with Class 1 exercises
 4. Follow along with the class materials as you progress through each module
+5. Explore the practical example in the `fintech_challenge` folder
 
 ---
 
